@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Partridhe's [sic] famous prophesies and predictions together with the observations of sundry other great and learned astrologers, touching the wonderful things that are expected to happen in the year, 1690. in great Britain, France, and Ireland, and other kingdoms, states, and countries in matters of peace, negotiation, war, casualties, contingencies, and other transactions more particularly the happiness promised this nation, and the danger that threatens the French King, and his dominions; also the popish army in Ireland: also the union of Protestants, reciting likewise a strange &amp; wonderful vision on the subject of these affairs lately happening, foretelling the quieting Scotland, reducing Ireland, and the conquest of France, and by what means it was proposed to be confirmed as a truth, and what has since come to pass in order thereunto: the happy reign of our glorious monarch, and his triumph over his enemies. Licensed according to order.</title>
+            <title>Mr. Partridge's famous prophesies and predictions.</title>
+            <author>Partridge, John, 1644-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56505</idno>
+            <idno type="STC">Wing P617A</idno>
+            <idno type="STC">ESTC R218678</idno>
+            <idno type="EEBO-CITATION">99835121</idno>
+            <idno type="PROQUEST">99835121</idno>
+            <idno type="VID">39780</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56505)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39780)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2035:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Partridhe's [sic] famous prophesies and predictions together with the observations of sundry other great and learned astrologers, touching the wonderful things that are expected to happen in the year, 1690. in great Britain, France, and Ireland, and other kingdoms, states, and countries in matters of peace, negotiation, war, casualties, contingencies, and other transactions more particularly the happiness promised this nation, and the danger that threatens the French King, and his dominions; also the popish army in Ireland: also the union of Protestants, reciting likewise a strange &amp; wonderful vision on the subject of these affairs lately happening, foretelling the quieting Scotland, reducing Ireland, and the conquest of France, and by what means it was proposed to be confirmed as a truth, and what has since come to pass in order thereunto: the happy reign of our glorious monarch, and his triumph over his enemies. Licensed according to order.</title>
+                  <title>Mr. Partridge's famous prophesies and predictions.</title>
+                  <author>Partridge, John, 1644-1715.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, J. Deacon, J. Blare, J. Back,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page woodcut.</note>
+                  <note>Place of publication supplied by cataloger.</note>
+                  <note>Reproduction of the original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39780:1"/>
+            <pb facs="tcp:39780:1"/>
+            <p>M<hi rend="sup">r.</hi> 
+               <hi>Patridhe's</hi> FAMOUS PROPHESIES AND PREDICTIONS: TOGETHER With the Obſervations of ſundry other Great and Learned Aſtro<g ref="char:EOLhyphen"/>logers, touching the wonderful things that are expected to happen in the Year, 1690. in great <hi>Britain, France,</hi> and <hi>Ireland,</hi> and other Kingdoms, States, and Countries in matters of Peace, Negotiation, War, Caſualties, Con<g ref="char:EOLhyphen"/>tingencies, and other Tranſactions more particularly the Happineſs pro<g ref="char:EOLhyphen"/>miſed this Nation, and the Danger that threatens the <hi>French</hi> King, and his Dominions; alſo the Popiſh Army in <hi>Ireland:</hi> Alſo the Union of <hi>Proteſtants,</hi> Reciting likewiſe a ſtrange &amp; wonderful Viſion on the Subject of theſe Affairs lately happening, foretelling the quieting <hi>Scotland,</hi> reducing <hi>Ireland,</hi> and the Conqueſt of <hi>France,</hi> and by what means it was propoſed to be confirmed as a Truth, and what has ſince come to paſs in order thereunto: The happy Reign of our Glorious Monarch, and his Triumph over his Enemies.</p>
+            <figure>
+               <figDesc>three blazing suns</figDesc>
+            </figure>
+            <figure>
+               <figDesc>comet and arrow</figDesc>
+            </figure>
+            <figure>
+               <figDesc>battle scene with two opposing armies</figDesc>
+            </figure>
+            <p>Licenſed according to Order.</p>
+            <p>Printed for <hi>P. Brooksby, J. Deacon, J. Blare, J. Back.</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <gap reason="missing" extent="2 pages">
+               <desc>〈2 pages missing〉</desc>
+            </gap>
+            <p>
+               <pb n="2" facs="tcp:39780:2"/>
+               <gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dinary Matters are likely in hand; but as the Seaſons grow on for Action, the Iſſue may be expected: and the many Configu<g ref="char:EOLhyphen"/>rations promiſe ſomewhat Extraordinary; for thoſe that croud together (except <hi>Jupiter</hi>) behold each other with malignant Rays; and <hi>Saturn</hi> and <hi>Mars,</hi> who afflict all other, are in oppoſition from <hi>Taurus</hi> and <hi>Virgo,</hi> which may denote ſome under-hand Affairs; one of them being the Horoſcope of the Kingdom of <hi>Ireland:</hi> ſo that we may in all likelyhood hear of the taking of ſome Towns, or Caſtles by Surprize or Surrender, if not ſome brisk and brave Action, wherein Valiant Men win Honour, and occaſion their Preferment according to their Merits, and thoſe that have ill deſerved may probably fall into Diſgrace.</p>
+            <p>
+               <hi>Saturn</hi> is likewiſe Stationary and Retrograde in the Aſcendant of the <hi>French</hi> King, being alſo in Square to his mid-Heaven: and in this Caſe the Party ſo poſited, is threatned with loſs of Honour, bad Succeſs, Treacherous and under-hand Dealings. And now divers of the Planets being in the watry, Signs, and the Sun Eclip<g ref="char:EOLhyphen"/>ſed in <hi>Piſces,</hi> denotes great Storms and Rains, which may occaſion ſome Over-flowings, and do dammage to Shipping at Sea, and Houſes, <hi>&amp;c.</hi> At Land however, the Congreſs of the Planets in <hi>Piſces,</hi> ſignifies great Meetings and Conſults of Eminent Perſons, to adjuſt and carry on weighty Affairs, pointing but little favoura<g ref="char:EOLhyphen"/>ble to <hi>France;</hi> for there we ſtill find <hi>Saturn</hi> afflicting the Horoſ<g ref="char:EOLhyphen"/>cope of the <hi>French</hi> King, which may give him trouble by Dome<g ref="char:EOLhyphen"/>ſtick Jars, through the Diſcontents of his People, Oppreſſed with Taxes and other Grievances, which they have long groaned under without Redreſs; by which means, in all likelyhood, he may find work enough to defend himſelf and his Countries, without being capable of making Inroads into his Neighbours, to give <hi>Europe</hi> the diſmal Marks of his Implacable Fury, by laying Waſte with Fire, <hi>&amp;c.</hi>
+            </p>
+            <p>The Seaſon coming on and growing ripe for Action, the Armies will begin to move with Courage and Reſolution; for <hi>Mars</hi> will be in the Mundane Trine to <hi>Jupiter,</hi> applying to a Zodiacal Trine, which promiſes favourably to the Low Countries, and a happy ſucceſs to the Confederates in general. About this time we may expect to hear conſiderable News relating to the Affairs of <hi>Ireland,</hi>
+               <pb n="3" facs="tcp:39780:2"/>
+whilſt things go on proſperouſly in <hi>England:</hi> however, That Country ſeems much Impoveriſhed by the Spoil and Ravagement that has been made, which obliges many that ſtood out, to ſubmit themſelves to the Government of <hi>England;</hi> and ſtrong Places will in all probability Surrender: Skirmiſhes frequently hapning, in which Bloud is ſhed, <hi>&amp;c.</hi> And now the Sun and Moon being both in the Parallel with <hi>Saturn</hi> and the Lord of the Tenth and Ele<g ref="char:EOLhyphen"/>venth Houſes; though ſome Conteſts may ariſe, they will have a favourable Iſſue, and an Increaſe of Trade is promiſed by Sea and Land, eſpecially Proſperity to the City of <hi>London;</hi> though Mer<g ref="char:EOLhyphen"/>chants muſt expect ſome Loſſes, by Pirates and Privateers, as well as by Storms: for the Sun and Moon are alſo at the ſame time in the Mundane Parallel with <hi>Jupiter,</hi> a moſt auſpicious Planet.</p>
+            <p>
+               <hi>Saturn</hi> in the beginning of <hi>July</hi> is Stationary in the <hi>French</hi> King's Horoſcope, and in Square to his Mid-Heaven; denoting that he will find diſappointments in his Purpoſes of troubling <hi>Europe,</hi> and ſee his Armies Unſucceſsful; his Grandeur perhaps daily declin<g ref="char:EOLhyphen"/>ing: for the Sun will ſoon after touch the Square of <hi>Saturn</hi> and <hi>Mars,</hi> in Square to that Planet; but the Northern Climates are in a happy way of ſeeing good days, and enjoying their Wiſhes. A<g ref="char:EOLhyphen"/>bout this time we may happen to hear great News from Sea.</p>
+            <p>The Trine of the Sun and <hi>Jupiter,</hi> is ever held to give Honour to the Law, and thoſe that profeſs it; and <hi>Jupiter</hi> Stationary pro<g ref="char:EOLhyphen"/>miſes to advance the Honour of <hi>England,</hi> and that great Negoti<g ref="char:EOLhyphen"/>ations will be on foot, and Ambaſſadors from Foraign Countries may be expected, to the advancement of her Intereſt and Gran<g ref="char:EOLhyphen"/>deur, through the farther Alliances and Eſtabliſhment of Trade.</p>
+            <p>Now <hi>Mercury</hi> appears employed to diſpoſe the minds of Great ones to Weighty Affairs and Intelligence, and Correſpondencies Amicably to be held; and herein it may be very conſiderable, for as much as he is not Angular, but in <hi>Cancer,</hi> which is a Tropical Sign, in the Angle of War and Contention, with conſiderable Ne<g ref="char:EOLhyphen"/>gotiations attending; and towards the latter end of <hi>Auguſt</hi> we may expect ſome Diſeaſes to be Rife, but nothing extrordinary relating to any conſiderable Mortality: And <hi>France</hi> in the enſuing Month is threatned with ſome more than ordinary Diſaſter; per<g ref="char:EOLhyphen"/>haps an Inroad by the Confederate Armies, or ſome Inſurrection
+<pb n="4" facs="tcp:39780:3"/>
+of the People, who have ſo long groaned under the Yoak of Opreſ<g ref="char:EOLhyphen"/>ſion, for <hi>Saturn</hi> is exactly in the Horoſcope of that King.</p>
+            <p>In the mean while, <hi>Jupiter</hi> is favourable to <hi>England,</hi> and we hear of Succeſs abroad; ſome Storms may be expected about this time, with conſiderable Robberies, even in the face of the Sun, though the Robbers being Detected, may be brought to a late Repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>There being five Lunations in the ſucceeding Month, and ma<g ref="char:EOLhyphen"/>ny of them in <hi>Libra,</hi> a Cardinal Sign, as alſo a Conjunction of the <hi>Sun,</hi> and <hi>Mars,</hi> near <hi>Virgo;</hi> in <hi>Libra</hi> they denote violent Mo<g ref="char:EOLhyphen"/>tions, and ſome conſiderable Encounters beyond the Seas, and particularly in ſome parts of <hi>Germany,</hi> and <hi>Flanders,</hi> by which we may expect good Succeſs. <hi>Mercury</hi> likewiſe joyns twice this Month with <hi>Saturn</hi> in <hi>Scorpio,</hi> which threaten the <hi>French</hi> Policies with Diſcovery, and little or no Succeſs.</p>
+            <p>The Seaſon now being far advanced, Action begins to ceaſe, and Armies to retire into Winter Quarters, leaving many ſtrong places Gariſoned, to ſecure what has been gained, <hi>&amp;c.</hi>
+            </p>
+            <p>And the <hi>Sun</hi> in <hi>November</hi> being in Conjunction with <hi>Saturn,</hi> and the <hi>Sun</hi> and <hi>Mercury,</hi> and <hi>Mars,</hi> and <hi>Mercury</hi> in <hi>Scorpio,</hi> which denote the <hi>French</hi> Affairs in no very good Condition, and the Councils of that Monarch diſturbed and diſorder'd, Diviſion and Diſtraction reigning, by which Advantage may accrue to his E<g ref="char:EOLhyphen"/>nemies.</p>
+            <p>Many various Diſcourſes will be broached about this time, and ſeveral Men's Minds fill'd Notions and Fancies, though perhaps to little or no purpoſe, and many and various Aſpects will follow, influencing publick and private Affairs; but the ſharpneſs of the Weather dulls Action abroad; however, it may be more than probable, that things are in hand, and ripening to great Succeſs. <hi>Ireland</hi> by this time inclining to a better and more favourable Condition, and breathing a freer Air of Hope towards Happi<g ref="char:EOLhyphen"/>neſs, and the Affairs of <hi>Scotland</hi> ſeem Calmer and in good Settle<g ref="char:EOLhyphen"/>ment, though no favourable Aſpect ſhines this Year on the Af<g ref="char:EOLhyphen"/>fairs of <hi>France,</hi> which ſeem to decline and retrograde that King<g ref="char:EOLhyphen"/>dom; perhaps having but too long Tyranniz'd over its Neigh<g ref="char:EOLhyphen"/>bours that are on the Frontiers, even to the Hanging, was many
+<pb n="5" facs="tcp:39780:3"/>
+thouſand Cities, Towns, and Villages, at ſundry times, with great Effuſion of Bloud; ſo that God no doubt in his good time will bring low that Haughtineſs that has ſo long exalted it ſelf, and defied, as it were, Heaven and Earth, by an unparalell'd Audaci<g ref="char:EOLhyphen"/>ty in violating the moſt ſacred Oaths, Leagues, Treaties, and whatever has been contrived to bind the Conſciences and con<g ref="char:EOLhyphen"/>ſerve the Honour of Mankind; and his Allies the <hi>Turk</hi> is threat<g ref="char:EOLhyphen"/>ned with no leſs favourable Succeſs, and Diſgrace by the loſs of Armies, and larger parts of his vaſt Dominion ſo unduly detained from its Rightful Owners, and gotten from the <hi>Chriſtians,</hi> at the Expence of ſo much Bloud, and by ſuch a world of Treachery. The <hi>Venetians</hi> are promiſed Succeſs againſt the Common Enemy by Sea and Land, and are in a very fair likelihood of recovering what they have loſt in many Years tedious and bloudy War, e<g ref="char:EOLhyphen"/>ſpecially thoſe famous and flouriſhing Iſlands, and a great part of <hi>Greece.</hi>
+            </p>
+            <p>The <hi>Tartar</hi> by this time begins to grow weary of his Alliance, by reaſon of the Fear he has of the <hi>Moſcovite,</hi> and the Danger that threatens him from that part; and from <hi>Poland,</hi> and the Em<g ref="char:EOLhyphen"/>peror of <hi>Germany,</hi> and the Princes of the Empire my expect to hear Welcome News on that ſide the Empire of the Eaſt, by the Succeſs of their Army, being perhaps in a very fair way of Reco<g ref="char:EOLhyphen"/>very, if vigorouſly puſhed on, and the <hi>French</hi> Confederacy prove but little advantagious to the <hi>Ottoman</hi> part, to which that Mo<g ref="char:EOLhyphen"/>narch has given ſuch pregnant Hopes, by promiſing to divert the Forces of the Empire in the Weſt, and embroil all <hi>Chriſtendom,</hi> that ſo the <hi>Turks</hi> may have time after ſo may reitterated Loſſes to breath and recrute, whilſt he finds himſelf miſtaken in the Ac<g ref="char:EOLhyphen"/>count, and ſees the <hi>French</hi> Monarchy, as well as his own, tottering, and the perfidious Succeſs returned upon the Head of him that thought to caſt Chains about his Neighbours; for he is this Year very much threatened by the ill Aſpects of <hi>Saturn,</hi> which look a<g ref="char:EOLhyphen"/>ſquint upon his Aſcendent, and oppoſe his Deſigns; for this Year is in probability pointed out as one of his unlucky Ones, and in<g ref="char:EOLhyphen"/>deed is likely to prove a Year of Wonders, perhaps ſuch as have not lately happened; however, our ſhare in the Benevolent Pla<g ref="char:EOLhyphen"/>nets is conſiderable, and gives us no ſuſpicion of any Danger;
+<pb n="6" facs="tcp:39780:4"/>
+and all this Year the Famous Aſtrologer, Mr. <hi>William Lilly</hi> point<g ref="char:EOLhyphen"/>ed about Twenty Years ſince, as we find it in his Writings left behind him, <hi>&amp;c.</hi>
+            </p>
+            <p>About this time Men may expect great Alterations and Changes, in the World: <hi>The Lord fit us to embrace his Mercies, and patiently to wait his coming,</hi> Amen. And we have it upon no ill grounded Report that a perſon lately living about <hi>Charing-Croſs,</hi> ſuddenly falling down at a Table amongſt Company, and to their appre<g ref="char:EOLhyphen"/>henſions ſeeming dead, after ſome hours came again to him<g ref="char:EOLhyphen"/>ſelf, and declared he had ſeen a Viſion, and been in a very glori<g ref="char:EOLhyphen"/>ous place, where it was revealed to him, that this Year <hi>Scotland</hi> ſhould be quieted, <hi>Ireland</hi> reduced to its Obedience, and <hi>France</hi> ſubdued, or humbled by the Courage and Valour of the <hi>Engliſh</hi> Arms under their Victorious Monarch; and queſtioning the Truth of it, it was farther told him, that in Confirmation thereof, he ſhould die himſelf at ſuch a time; and, if we may credit Report, we ſince hear he died exactly at the time, or however is ſince dead.</p>
+            <trailer>
+               <hi>And thus much may ſuffice as an inſight of Affairs for this Year of Wonders,</hi> viz. 1690.</trailer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39780:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
